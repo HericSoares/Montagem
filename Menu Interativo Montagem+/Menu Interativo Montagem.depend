@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1689904888 source:c:\users\heric\onedrive\documentos\projetos codeblock\udemy\c e c++ do iniciante ao avançado\menu interativo montagem\main.c
+	<stdio.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"menu.h"
+
+1689906181 c:\users\heric\onedrive\documentos\projetos codeblock\udemy\c e c++ do iniciante ao avançado\menu interativo montagem\menu.h
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+

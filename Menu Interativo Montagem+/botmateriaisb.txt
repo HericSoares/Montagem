@@ -1,0 +1,11 @@
+1x 0644 Cabo PP 2 vias 95cm
+1x 0640 Cabo PP 4 vias 95cm
+4x 0370 Espaquete Termo Retratil 4cm
+1x 0797 Tiras de Espumas 6cm
+1x 0797 Tiras de Espumas 7cm
+1x 0797 Tiras de Espumas 4,5cm
+1x 3404 Enforca Gato T18R 
+1X 0662 Conector 5V Passo
+1x 0819 Junta de Selagem Interna
+1x 0701 Junta de Selagem Externa
+1x 0705 QR Code 

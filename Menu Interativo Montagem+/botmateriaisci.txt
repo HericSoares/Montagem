@@ -1,0 +1,12 @@
+1x 0656 Alto Falante
+8x 0710 Parafuso Panela Phillips M4X8 Bicromatizado
+1x 0678 Microfone Eletreto 9,6MM
+1x 0659 Fio Polar 19cm
+1x 0659 Fio Polar 16cm
+2x 0660 Espaquete Termo Retratil 2cm
+1x 0821 Espaquete Termo Retratil 2,5cm
+1x 0717 Suporte da PCB
+4X 0702 Torre de Fixação
+4x 0703 Parafuso Torre
+4x 0704 Porca Torre
+

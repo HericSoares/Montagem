@@ -1,0 +1,15 @@
+1x 0659 Led Fita Azul SMD 16cm
+2x 0659 Fio Polar 20cm
+1x 0659 Fio Polar 12cm
+2x 0660 Espaquete Termo Retratil 2cm
+1x 0821 Espaquete Termo Retratil 2,5cm
+1x 0658 Motor
+1x 0796 Pendulo Para Motor
+1x 0721 Suporte do Motor
+2x 0711 Parafuso Panela Phillips M4X25 Bicromatizado
+2x 0712 Parafuso Panela Phillips M6X8 Bicromatizado
+1x 0731 Botao
+1x 0716 Suporte do Botão
+1x 0719 Lente
+1x 0720 Suporte para Lente
+1x 0663 Conector 7V Passo
